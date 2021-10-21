@@ -1,0 +1,13 @@
+package com.grdv.api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GrdvApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
